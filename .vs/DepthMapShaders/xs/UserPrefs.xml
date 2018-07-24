@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{08E3DE76-2A09-8120-7B17-1E4B677F04D6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraConfig.cs">
+    <Files>
+      <File FileName="Assets/CameraConfig.cs" Line="18" Column="27" />
+      <File FileName="Assets/Materials/Scripts/Water.cs" Line="1" Column="1" />
+      <File FileName="Assets/Materials/Shader/Water.shader" Line="85" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
